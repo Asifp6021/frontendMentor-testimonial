@@ -208,9 +208,10 @@ article:nth-child(3) h1 {
 
 	.back-img {
 		top: 0;
-		right: 5rem;
+		right: 3.5rem;
 		height: 10rem;
-		width: 10rem;
+		width: 8rem;
+		opacity: 40%;
 	}
 }
 
